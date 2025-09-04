@@ -46,4 +46,4 @@ aplicación de API REST BACKEND en python
 
  ## Proyecto desarrollado como casa de estudio
  * Nombre : **Josiel Morales** <josiel.benavidez24400730@estu.unan.edu.ni>
- * GitHub : @Ghost
+ * GitHub : @GhostJBM
